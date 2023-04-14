@@ -1,4 +1,6 @@
 # Student-Data-Management-WebApplication
+  • Used technolgy : Java and Servlet,Mysql DataBase
+  • Used Plateform : Tomcat server,Eclipse IDE
 
 # Front Page
 ![front](https://user-images.githubusercontent.com/89769715/232163771-e8e0b89a-e324-4b43-8fa2-202a3540068d.png)
